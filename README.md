@@ -1,6 +1,6 @@
-# PostgreSQL Assignment – Bonus Part
+# PostgreSQL Assignment
 
-### 1. **PostgreSQL কী?**
+### 1. **What PostgreSQL?**
 
 **PostgreSQL** একটি ওপেন-সোর্স, অবজেক্ট-রিলেশনাল ডেটাবেস ম্যানেজমেন্ট সিস্টেম (ORDBMS)। এটি ডেটা সংরক্ষণ, পরিচালনা এবং অনুসন্ধানের জন্য ব্যবহৃত হয়। এটি শক্তিশালী, নিরাপদ, এবং ACID-compliant হওয়ায় বড় ও জটিল অ্যাপ্লিকেশনেও ব্যবহৃত হয়।
 
